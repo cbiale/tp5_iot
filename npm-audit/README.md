@@ -18,14 +18,6 @@ Se muestra una captura de pantalla parcial de la ejecución de `npm-check` en el
 
 ![](./imagenes/salida_npm-audit.png)
 
-Es posible ejecutarlo en forma interactiva mediante el siguiente comando:
-
-```
-$ npm-check -u
-```
-
-Esto permite realizar un control e instalar nuevas versiones.
-
 ## Consideraciones adicionales
 
 Al igual que con `Dependabot`, la `npm audit` debe combinarse con pruebas automáticas y manuales para evitar cambios que puedan romper el código.
