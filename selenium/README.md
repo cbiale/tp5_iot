@@ -1,4 +1,4 @@
-# TP5
+# Selenium
 
 Test de ingreso al sistema desarrollado, se usa `Firefox`, por ello se instala:
 
