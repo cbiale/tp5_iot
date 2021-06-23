@@ -27,3 +27,6 @@ $ npm-check -u
 
 Esto permite realizar un control e instalar nuevas versiones.
 
+## Alternativas
+
+Una alternativa es: [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
