@@ -1,6 +1,6 @@
 # npm-check
 
-## Proposito y Enlace 
+## Propósito y Enlace 
 
 Comprueba si hay dependencias desactualizadas, incorrectas y no utilizadas.
 
