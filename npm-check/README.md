@@ -4,7 +4,7 @@
 
 Comprueba si hay dependencias desactualizadas, incorrectas y no utilizadas.
 
-Enlace: [](https://www.npmjs.com/package/npm-check)
+Enlace: [npm-check](https://www.npmjs.com/package/npm-check)
 
 
 ## Instalación
