@@ -17,10 +17,10 @@ Dentro de los tipos de pruebas a realizar se pueden enumerar:
 - [Selenium](selenium/README.md): Ejemplo de test usando `Selenium` para verificar el funcionamiento de navigabilidad de la pantalla de ingreso al ingresar con distintas opciones usuario y clave.
 - [tcpdump](tcpdump/README.md): Ejemplo de control de tráfico usando `tcpdump` para ver de detectar mensajes sensibles con el objetivo de obtener usuario y clave para ingresar al sistema.
 - [npm-check](npm-check/README.md): Ejemplo de uso de `npm-check` que comprueba si hay dependencias de terceros desactualizadas, incorrectas y no utilizadas.
-- [npm-audit](npm-audit/README.md): Ejemplo de uso de `npm audit` que comprueba si las dependencias de terceros estén actualizadas y sean seguras.
+- [npm-audit](npm-audit/README.md): Ejemplo de uso de `npm audit` que comprueba si las dependencias de terceros están actualizadas y son seguras.
 - [jsinspect](jsinspect/README.md): Detecta código JavaScript copiado pegado y estructuralmente similar.
-- [DeepSource](deepsource/README.md): Ejemplo de uso de `Deepsource` una herramienta de revisión de código automatizada que permite monitorear un proyecto hosteado en Github, Gitlab o Bitbucket.
-- **[FALTA]** Test API.
+- [DeepSource](deepsource/README.md): Ejemplo de uso de `Deepsource` una herramienta de revisión de código automatizada que permite monitorear un proyecto ubicado en Github, Gitlab o Bitbucket.
+- [Test API](apitest/README.md): Ejemplo de test sobre la API de conexión al proyecto final.
 
 
 
