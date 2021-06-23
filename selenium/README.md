@@ -7,6 +7,7 @@ npm install geckodriver
 ```
 
 En los test se controla:
+
 ✔ Ingresar al sitio cargando usuario y clave correctos pasa a la url de mapas
 
 ✔ Ingresar al sitio cargando solo usuario no pasa a la url de mapas
