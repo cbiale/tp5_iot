@@ -1,3 +1,14 @@
+# tcpdump
+
+## Captura de pantalla
+
+Se muestra una captura de pantalla parcial de la ejecución de `tcpdump`:
+
+![](./imagenes/imagen_parcial.png)
+
+
+## Pasos 
+
 Se va a realizar una captura de paquetes con tcpdump, para ello se obtienen las interfaces:
 
 ```

@@ -14,7 +14,7 @@ Dentro de los tipos de pruebas a realizar se pueden enumerar:
 
 ## Caso de uso
 
-- [Selenium](selenium/README.md): Ejemplo de test usando `Selenium` para verificar el funcionamiento de navigabilidad de la pantalla de ingreso al ingresar con distintas opciones usuario y clave.
+- [Selenium](selenium/README.md): Ejemplo de test usando `Selenium` para verificar el funcionamiento de navigabilidad de la pantalla de ingreso al ingresar con distintas opciones usuario y clave *(Se controla por URL pero se puede analizar de controlar por mensaje mostrado en los casos de error)*.
 - [tcpdump](tcpdump/README.md): Ejemplo de control de tráfico usando `tcpdump` para ver de detectar mensajes sensibles con el objetivo de obtener usuario y clave para ingresar al sistema.
 - [npm-check](npm-check/README.md): Ejemplo de uso de `npm-check` que comprueba si hay dependencias de terceros desactualizadas, incorrectas y no utilizadas.
 - [npm-audit](npm-audit/README.md): Ejemplo de uso de `npm audit` que comprueba si las dependencias de terceros están actualizadas y son seguras.
