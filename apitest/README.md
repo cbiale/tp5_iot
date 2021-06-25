@@ -1,24 +1,28 @@
-# API Test
+# Test API
 
 Test de ingreso al sistema usando postman.
 
 Al diseñar el sistema se decidió que siempre devuelva un código de resultado `200` pero cambie el contenido del mensaje.
  
-## Capturas de test
+## Capturas del test
+
+Variables definidas:
+
+![](./imagenes/variables.png)
 
 Test a ejecutar:
 
 ![](./imagenes/ejecutar_test.png)
 
-Sumario del resultado test:
+Sumario resultado del test:
 
 ![](./imagenes/resultado_test_sumario.png)
 
-Resultado detallado de test:
+Detalle resultado del test:
 
 ![](./imagenes/resultado_test.png)
 
-## Contenido de cada test (Código)
+## Contenido de cada test
 
 ### Usuario y clave correcto
 
