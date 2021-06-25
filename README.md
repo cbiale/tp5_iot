@@ -20,7 +20,7 @@ Dentro de los tipos de pruebas a realizar se pueden enumerar:
 - [npm-audit](npm-audit/README.md): Ejemplo de uso de `npm audit` que comprueba si las dependencias de terceros están actualizadas y son seguras.
 - [jsinspect](jsinspect/README.md): Detecta código JavaScript copiado pegado y estructuralmente similar.
 - [DeepSource](deepsource/README.md): Ejemplo de uso de `Deepsource` una herramienta de revisión de código automatizada que permite monitorear un proyecto ubicado en Github, Gitlab o Bitbucket.
-- **[FALTA]** [Test API](apitest/README.md): Ejemplo de test sobre la API de conexión al proyecto final.
+- [Test API](apitest/README.md): Ejemplo de test sobre la API de conexión al proyecto final.
 
 
 
